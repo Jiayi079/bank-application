@@ -14,4 +14,5 @@ Create a simple payments site like Zelle, paypal, venmo ect. Users will be able 
 - back-end need to set up register endpoint, loopup valid user endpoint, make payment endpoint, and get feed endpoint
 
 # Project team members:
-- Jiayi Gu, email: jgu3@mail.sfsu
+- Jiayi Gu, email: jgu3@mail.sfsu.edu
+- Jiaming Zhao, email: jzhao19@sfsu.edu
